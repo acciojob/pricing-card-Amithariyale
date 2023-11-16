@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    margin: 10% auto;
+    width: 35%;
+    background-color: rgba(152, 154, 155, 0.267);
+	box-shadow: 0px 5px 10px 1px rgb(216, 196, 196);
+}
+img{
+/*     padding: 40px 40px 0px 10px; */
+	height:115px;
+	margin:40px 35px 0px;
+	position:center;
+	border:2px solid black;
+}
+h1{
+	margin:0px;
+	padding:0px;
+    text-align: center;
+}
+p{
+	margin:0px;
+	padding:0px 50px 0px;
+    text-align: center;
+/* 	border:2px solid black; */
+}
+button{
+	margin:10px 90px 35px;
+	padding:10px ;
+	border:none;
+	border-radius:5px;
+	color:white;
+	background-color:#ef574c;
+}
